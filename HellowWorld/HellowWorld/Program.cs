@@ -11,7 +11,9 @@ namespace HellowWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World\n");
-            Console.WriteLine("Web Changes");
+            Console.WriteLine("Web Changes\n");
+            Console.WriteLine("friend change\n");
+
         }
     }
 }
